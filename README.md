@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @maxlampe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Max
 
-<!---
-maxlampe/maxlampe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a PhD researcher and data analysis enthusiast. I love learning new things and solving problems from all angles.
+- ⚙️Interests: Data analysis, Deep Learning/AI, Simulation tools
+- Hobbies: Lacrosse 🥍 Music 🎸 Photography 📷 Mountaineering ⛰️
+- 📫💞️ Always open to collaborate. Just hit me up!
