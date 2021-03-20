@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Max
 
-I'm a PhD researcher and data analysis enthusiast. I love learning new things and solving problems from different angles.
+I'm a PhD researcher and data analysis enthusiast. I love learning new things, developing new tech and solving problems from different angles. 
 - ⚙️ Interests: Data analysis, Deep Learning/AI, Simulation tools
 
 - 📖 Python, C++, Bash
