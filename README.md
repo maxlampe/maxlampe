@@ -5,7 +5,7 @@ I'm a PhD researcher and data analysis enthusiast. I love learning new things, d
 
 - 📖 Python, C++, Bash
 
-- 🔨 pyTorch, Root, Mathematica
+- 🔨 pyTorch, TensorFlow, Root, Mathematica
 
 - Hobbies: Lacrosse 🥍 Music 🎸 Photography 📷 Mountaineering ⛰️
 
