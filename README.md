@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Max
 
-I'm a PhD researcher and data analysis enthusiast. I love learning new things, developing new tech and solving problems from different angles. 
+I'm a PhD researcher in particle physics and a data analysis enthusiast. I love learning new things, developing new tech and solving problems from different angles. 
 - ⚙️ Interests: Data analysis, statistical ML, representation learning, simulation tools
 
 - 📖 Python, Julia, C++, Bash
