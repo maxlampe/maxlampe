@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Max
 
-I'm a Ph.D. candidate in particle physics, and I focus on data analysis, machine learning, and differential programming. Currently, I am branching out to AI safety research and existential risk in my own time. I love developing science-oriented software solutions and creating tools to solve problems. 
+I'm a postdoc focussing on the interpretability, robustness, and alignment of machine learning models. Background in particle physics, data analysis, and differential programming. 
 
-- ⚙️ Interests: Data analysis, probabilistic modelling, deep learning, differential programming
+- ⚙️ Interests: Data analysis, probabilistic modeling, deep learning, differential programming
 
 - 📖 Python, Julia, C++, Bash
 
