@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Max
 
-I work on making AI learn what we actually value, i.e., learning valid, identifiable objectives from human data. 
+I work on making AI learn what we actually value, i.e., learning identifiable and valid objectives from human data in non-verifiable domains. 
 Research Fellow @ Stanford
 
 - ⚙️ Interests: reinforcement learning, reward learning, preference learning, identifiability, reward hacking, interpretability, AI evaluation, expert elicitation, responsible AI, AI safety
