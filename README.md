@@ -1,13 +1,14 @@
 # 👋 Hi, I’m Max
 
-I'm a postdoc focussing on the interpretability, robustness, and alignment of machine learning models. Background in particle physics, data analysis, and differential programming. 
+I work on making AI learn what we actually value, i.e., learning valid, identifiable objectives from human data. 
+Research Fellow @ Stanford
 
-- ⚙️ Interests: Data analysis, probabilistic modeling, deep learning, differential programming
+- ⚙️ Interests: reinforcement learning, reward learning, preference learning, identifiability, reward hacking, interpretability, AI evaluation, expert elicitation, responsible AI, AI safety
 
 - 📖 Python, Julia, C++, Bash
 
 - 🔨 PyTorch, GPyTorch, Pyro, TensorFlow, Root, Mathematica
 
-- Hobbies: Lacrosse 🥍 Music 🎸 Photography 📷 Mountaineering ⛰️
+- Hobbies: Triathlon 🏊🚲🏃 Music 🎸 Photography 📷 Mountaineering ⛰️
 
 - 📫 Always open to collaborate. Just hit me up!
